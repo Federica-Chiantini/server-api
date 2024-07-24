@@ -1,0 +1,125 @@
+{
+  "articoli": [
+    {
+      "title": "Titolo di prova",
+      "userId": 1,
+      "body": "testo",
+      "id": 1
+    },
+    {
+      "title": "Titolo due",
+      "userId": 1,
+      "body": "Aggiungo un secondo post di prova che quando viene caricato va sul server e mi apre pagina con tutti i post",
+      "id": 2
+    },
+    {
+      "title": "Ta Pasta",
+      "userId": 1,
+      "body": "testo casuale per svuotare post",
+      "id": 3
+    }
+  ],
+  "categorie": [],
+  "films": [],
+  "rubrica": [
+    {
+      "persona": "fisica",
+      "nome": "Luca",
+      "cognome": "Giacometti",
+      "email": "LuGiacometti@hotmail.com",
+      "data": "",
+      "indirizzo": {
+        "via": "via degli Oleandri 6",
+        "cap": "05687",
+        "citta": "Torino",
+        "provincia": "TR",
+        "nazione": "Italia"
+      },
+      "prefisso": "39",
+      "tel": "3382493115",
+      "id": 1721668013294
+    },
+    {
+      "persona": "giuridica",
+      "sociale": "Flat spa",
+      "email": "ftinoSPA@gmail.it",
+      "indirizzo": {
+        "via": "via degli Oleandri 15B",
+        "cap": "05687",
+        "citta": "Torino",
+        "provincia": "TR",
+        "nazione": "frainci"
+      },
+      "prefisso": "39",
+      "tel": "3382455555",
+      "id": 1721674725063,
+      "nome": "",
+      "cognome": "",
+      "data": ""
+    },
+    {
+      "persona": "giuridica",
+      "sociale": "Elton macchine srl",
+      "email": "EltMacchine@gmail.com",
+      "indirizzo": {
+        "via": "via dei girasoli 34",
+        "cap": "09876",
+        "citta": "Cagliari",
+        "provincia": "CG",
+        "nazione": "Italia"
+      },
+      "prefisso": "39",
+      "tel": "3331345751",
+      "id": 1721677386610
+    },
+    {
+      "persona": "fisica",
+      "nome": "Karen",
+      "cognome": "Proietti",
+      "email": "Kproietti78@gmail.it",
+      "data": "1978-09-09",
+      "indirizzo": {
+        "via": "viale Giuli Cesare 18",
+        "cap": "00978",
+        "citta": "Rieti",
+        "provincia": "RT",
+        "nazione": "Italia"
+      },
+      "prefisso": "39",
+      "tel": "3382493115",
+      "id": 1721732673858
+    },
+    {
+      "persona": "giuridica",
+      "sociale": "impianti elettrici GCM srl",
+      "email": "imelGCM@hotmail.com",
+      "indirizzo": {
+        "via": "via degli orti cesarini 9",
+        "cap": "02345",
+        "citta": "Rho",
+        "provincia": "ML",
+        "nazione": "Italia"
+      },
+      "prefisso": "39",
+      "tel": "3337119345",
+      "id": 1721733080482
+    },
+    {
+      "persona": "fisica",
+      "nome": "giulia",
+      "cognome": "cerutti",
+      "email": "de_cici98@hotmail.it",
+      "data": "2024-07-03",
+      "indirizzo": {
+        "via": "viale lia",
+        "cap": "08767",
+        "citta": "Cagliarsasi",
+        "provincia": "rt",
+        "nazione": "italia"
+      },
+      "prefisso": "35",
+      "tel": "1909222555",
+      "id": 1721742590679
+    }
+  ]
+}
